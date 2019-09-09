@@ -1,0 +1,6 @@
+pdffiles
+__pycache__
+.idea*
+.DS_Store
+.ipynb*
+*.zip
